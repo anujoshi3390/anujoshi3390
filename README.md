@@ -5,6 +5,7 @@ Hi, I’m Anu Joshi, a Data Scientist passionate about transforming data into ac
 I am currently pursuing my Master of Science in Data Science at University of Boston  and compleated  MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, healthcae and marketing, leveraging data-driven strategies to optimize decision-making.
 
 📌 Featured Projects 
+
 🏡 Boston House Price Prediction – Repository
 Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
 
