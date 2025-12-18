@@ -43,7 +43,7 @@ I have worked with a wide range of machine learning, deep learning, and statisti
 I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels,) and have optimized models for business intelligence, climate data science. 🚀
 
 🚀 Let’s Connect!
-
+--
 📧 Email:anujoshi3390@gmail.com  💼 LinkedIn: linkedin.com/in/anuradhasjoshi
 
 Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
