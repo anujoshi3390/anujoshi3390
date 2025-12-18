@@ -1,8 +1,8 @@
-👋 Welcome to My Data Portfolio! 
+👋 Hi Welcome to My Data Portfolio! 
 
 Hi, I’m Anu Joshi, a Data Scientist passionate about transforming data into actionable insights. With a strong background in machine learning, deep learning, geospatial analysis, and data visualization, I specialize in applying Python, SQL, Power BI, and GIS to solve real-world problems across multiple industries.
 
-I am currently pursuing my Master of Science in Data Science at the University of Boston  and compleated  MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, healthcae and marketing, leveraging data-driven strategies to optimize decision-making.
+I am currently pursuing my Master of Science in Data Science at University of Boston  and compleated  MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, healthcae and marketing, leveraging data-driven strategies to optimize decision-making.
 
 📌 Featured Projects 
 🏡 Boston House Price Prediction – Repository
