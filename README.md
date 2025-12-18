@@ -1,22 +1,23 @@
-##👋 Welcome to My Data Portfolio! ##
+👋 Welcome to My Data Portfolio! 
 
 Hi, I’m Anu Joshi, a Data Scientist passionate about transforming data into actionable insights. With a strong background in machine learning, deep learning, geospatial analysis, and data visualization, I specialize in applying Python, SQL, Power BI, and GIS to solve real-world problems across multiple industries.
 
 I am currently pursuing my Master of Science in Data Science at the University of Boston  and compleated  MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, healthcae and marketing, leveraging data-driven strategies to optimize decision-making.
 
-##📌 Featured Projects ##
+📌 Featured Projects 
 🏡 Boston House Price Prediction – Repository
 Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
 
 🍽 Business Data Analysis: Restaurant Demand Forecasting – Repository
 Optimized restaurant performance using SQL, Python, and Tableau to identify customer demand trends.
 
-##🔍 More Projects Coming Soon ##
+🔍 More Projects Coming Soon 
 
-##💡 Skills & Technologies ##
+💡 Skills & Technologies
 ✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, Snowflake, Databricks ✔ Geospatial Analysis: GIS, ArcGIS, QGIS
 
-##📌 Algorithms I Have Experience With ##
+📌 Algorithms I Have Experience With 
+
 I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across finance, marketing, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
 
 🔹 Supervised Learning Algorithms
@@ -39,7 +40,7 @@ I have worked with a wide range of machine learning, deep learning, and statisti
 
 I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels,) and have optimized models for business intelligence, climate data science. 🚀
 
-##🚀 Let’s Connect!##
+🚀 Let’s Connect!
 📧 Email:anujoshi3390@gmail.com  💼 LinkedIn: linkedin.com/in/anuradhasjoshi
 
 Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
