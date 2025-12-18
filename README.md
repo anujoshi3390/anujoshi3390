@@ -18,7 +18,7 @@ Optimized restaurant performance using SQL, Python, and Tableau to identify cust
 --
 ✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, Snowflake, Databricks ✔ Geospatial Analysis: GIS, ArcGIS, QGIS
 
-📌 *** Algorithms I Have Experience With ***
+📌 Algorithms I Have Experience With
 
 I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across finance, marketing, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
 
@@ -43,6 +43,7 @@ I have worked with a wide range of machine learning, deep learning, and statisti
 I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels,) and have optimized models for business intelligence, climate data science. 🚀
 
 🚀 Let’s Connect!
+
 📧 Email:anujoshi3390@gmail.com  💼 LinkedIn: linkedin.com/in/anuradhasjoshi
 
 Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
