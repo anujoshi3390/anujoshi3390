@@ -11,9 +11,9 @@ I am currently pursuing my Master of Science in Data Science at the University  
 Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
 
 ◾ Business Data Analysis: Restaurant Demand Forecasting – Repository
-Optimized restaurant performance using SQL, Python, and Tableau to identify customer demand trends.
+Optimized restaurant performance using SQL and Python to identify customer demand trends.
 
-◾ Vaccine marketing strategy : N1H1 - Repository optimized target market on who should be approached to receive the N1H1 vaccine and how resources should be allocated. 
+◾ Vaccine Marketing Strategy : N1H1 - Repository optimized target market on who should be approached to receive the N1H1 vaccine and how resources should be allocated. 
 
 More Projects Coming Soon 
 
