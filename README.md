@@ -13,15 +13,17 @@ Leveraged machine learning and regression modeling to forecast housing prices, u
 ◾ Business Data Analysis: Restaurant Demand Forecasting – Repository
 Optimized restaurant performance using SQL, Python, and Tableau to identify customer demand trends.
 
+◾ Vaccine marketing strategy : N1H1 - Repository optimized target market on who should be approached to receive the N1H1 vaccine and how resources should be allocated. 
+
 More Projects Coming Soon 
 
 Skills & Technologies
 --
-✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, Snowflake, Databricks ✔ Geospatial Analysis: GIS, ArcGIS, QGIS
+✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, ✔ Geospatial Analysis: GIS, ArcGIS.
 
 Algorithms I Have Experience With
 
-I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across finance, marketing, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
+I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across marketing, healthcare, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
 
 🔹 Supervised Learning Algorithms
 ✔ Linear Regression – Predicting continuous outcomes (e.g., sales forecasting, house prices) ✔ Logistic Regression – Binary classification problems (e.g., fraud detection, churn prediction) ✔ Decision Trees – Intuitive classification and regression models ✔ Random Forest – Ensemble learning for improved accuracy and stability ✔ Gradient Boosting (XGBoost, LightGBM, CatBoost) – High-performance predictive modeling ✔ Support Vector Machines (SVM) – Complex classification problems ✔ k-Nearest Neighbors (k-NN) – Instance-based learning for pattern recognition
@@ -41,13 +43,13 @@ I have worked with a wide range of machine learning, deep learning, and statisti
 🔹 Anomaly Detection & Optimization
 ✔ Isolation Forest – Detecting rare events and anomalies ✔ One-Class SVM – Outlier detection in high-dimensional data ✔ Genetic Algorithms – Optimization and search problems
 
-I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels,) and have optimized models for business intelligence, climate data science. 🚀
+I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels,) and have optimized models for business intelligence, climate data science. 
 
 🚀 Let’s Connect!
 --
-📧 Email:anujoshi3390@gmail.com  💼 LinkedIn: linkedin.com/in/anuradhasjoshi
+📧 Email:anujoshi3390@gmail.com  LinkedIn: linkedin.com/in/anuradhasjoshi
 
-Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
+Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 
 
 
 <!--
