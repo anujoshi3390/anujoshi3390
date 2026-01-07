@@ -10,12 +10,16 @@ I am currently pursuing my Master of Science in Data Science at the University  
 ◾Boston House Price Prediction – Repository
 Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
 
+◾ Automotive Pricing Analysis – Repository levegering regression and tree-based models to identify key customer segments
+
 ◾ Business Data Analysis: Restaurant Demand Forecasting – Repository
 Optimized restaurant performance using SQL and Python to identify customer demand trends.
 
 ◾ Vaccine Marketing Strategy : N1H1 - Repository optimized target market on who should be approached to receive the N1H1 vaccine and how resources should be allocated. 
 
-More Projects Coming Soon 
+◾ Pneumonia X-ray Detection – Repository using a convolutional neural network (CNN) for medical image classification
+
+More Projects Coming Soon!
 
 Skills & Technologies
 --
