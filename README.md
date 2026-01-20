@@ -26,7 +26,7 @@ More Projects Coming Soon!
 
 Skills & Technologies
 --
-✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, ✔ Geospatial Analysis: GIS, ArcGIS.
+✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, ✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems ✔ Data Visualization: Power BI, Matplotlib, Seaborn ✔ Big Data & Cloud: AWS, ✔ Geospatial Analysis: GIS, ArcGIS.
 
 Algorithms I Have Experience With
 
